@@ -1,0 +1,12 @@
+.arrow {
+    z-index: 100;
+    margin: 10px;
+    top: 47%;
+    cursor: pointer;
+    color: darkorchid;
+    position: absolute;
+}
+
+.rightArrow {
+    right: 0;
+}
