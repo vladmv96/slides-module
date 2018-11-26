@@ -1,0 +1,26 @@
+.arrow {
+    z-index: 100;
+    margin: 10px;
+    top: 47%;
+    cursor: pointer;
+    color: darkorchid;
+    position: absolute;
+    font-size: 62px;
+}
+
+.rightArrow {
+    right: 0;
+}
+
+.dots {
+    position: absolute;
+    width: 100%;
+    top: 87%;
+    text-align: center;
+}
+
+.dot {
+    display: inline;
+    font-size: 100px;
+    cursor: pointer;
+}
